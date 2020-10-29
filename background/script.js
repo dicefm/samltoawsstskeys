@@ -1,7 +1,7 @@
 // Global variables
 var FileName = 'credentials';
 var ApplySessionDuration = true;
-var DefaultSessionDuration = "10800";
+var DefaultSessionDuration = "28800";
 var DebugLogs = false;
 var RoleArns = {};
 var LF = '\n';
